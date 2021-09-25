@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="left"> 
-    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ftttttt_621_s">
+    <a href="https://twitter.com/tttttt_621_s">
+        <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ftttttt_621_s">
+    </a>
     <a href="https://github.com/TakaShinoda/curriculum-vitae">
         <img alt="Curriculum-Vitae URL" src="https://img.shields.io/badge/Curriculum_Vitae-informational">
     </a>
