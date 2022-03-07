@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/TakaShinoda/TakaShinoda/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-## Zenn Articles
+## ![zenn](https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://zenn.dev/&size=16) Zenn Articles
 
 <!-- profile updater begin: zenn -->
 <!-- profile updater end: zenn -->
