@@ -26,3 +26,8 @@ Here are some ideas to get you started:
 
 
 [![](https://raw.githubusercontent.com/TakaShinoda/TakaShinoda/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+## My Blog
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
