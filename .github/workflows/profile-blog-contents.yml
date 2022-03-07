@@ -1,0 +1,30 @@
+name: GitHub-Profile-Blog-Contents
+
+on:
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: branch|tag|SHA to checkout
+        default: 'master'
+        required: true
+  schedule:
+    - cron: '* */24 * * *'
+  workflow_dispatch:
+
+jobs:
+  profile-updater:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: kumackey/profile-updater@v1
+        with:
+          zenn_user_id: taka_shino
+          connpass_nickname: tttttt_621_s
+          # qiita_user_id: kumackey
+      - name: Commit and push
+        run: |
+          git config --local user.name "Takahiro"
+          git config --local user.email "tkhr_621@docomo.ne.jp"
+          git add .
+          git commit -m "profile updated" || true
+          git push origin master
