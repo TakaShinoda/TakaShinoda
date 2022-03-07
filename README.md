@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **TakaShinoda/TakaShinoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/TakaShinoda/TakaShinoda/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-# Zenn Articles
+## Zenn Articles
 
 <!-- profile updater begin: zenn -->
 <!-- profile updater end: zenn -->
 
 
-# connpass Events
+## connpass Events
 
 <!-- profile updater begin: connpass -->
 <!-- profile updater end: connpass -->
