@@ -1,12 +1,6 @@
 name: GitHub-Profile-Blog-Contents
 
 on:
-  workflow_dispatch:
-    inputs:
-      ref:
-        description: branch|tag|SHA to checkout
-        default: 'master'
-        required: true
   schedule:
     - cron: '* */24 * * *'
   workflow_dispatch:
