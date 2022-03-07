@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <!-- profile updater end: zenn -->
 
 
-## connpass Events
+## ![connpass](https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://connpass.com/&size=16) connpass Events
 
 <!-- profile updater begin: connpass -->
 - Mar 10 [【Online】LINE Technical Writing Meetup vol. 11](https://line.connpass.com/event/240461/)
