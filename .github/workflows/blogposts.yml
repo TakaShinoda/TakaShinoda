@@ -1,5 +1,11 @@
 name: Blog post workflow
 on:
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: branch|tag|SHA to checkout
+        default: 'master'
+        required: true
   schedule:
     - cron: '* */24 * * *'
 
