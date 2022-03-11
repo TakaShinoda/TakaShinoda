@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 ## ![connpass](https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://connpass.com/&size=16) connpass Events
 
 <!-- profile updater begin: connpass -->
+- Mar 10 [Frontend Talk 〜デザインシステム構築のリアルな裏側〜【hey｜note｜ANDPAD】](https://andpad.connpass.com/event/238368/)
 - Mar 10 [【Online】LINE Technical Writing Meetup vol. 11](https://line.connpass.com/event/240461/)
 - Feb 24 [Vue.js 3 ハンズオン #1 ～はじめてのVue.js～](https://vuejs-meetup.connpass.com/event/236086/)
 - Feb 16 [【LT9名満員御礼！】フロントエンドLT会 - vol.6　#frontendlt](https://rakus.connpass.com/event/234673/)
 - Feb 8 [Saitama.js vol.2【初心者歓迎 JavaScript LT会】](https://saitamajs.connpass.com/event/233089/)
-- Jan 31 [Coinhive事件最高裁「無罪」判決を受けて](https://hackers.connpass.com/event/236705/)
 <!-- profile updater end: connpass -->
