@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 ## ![connpass](https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://connpass.com/&size=16) connpass Events
 
 <!-- profile updater begin: connpass -->
+- Apr 11 [VS Code Meetup #19 - フロントエンド開発Night](https://vscode.connpass.com/event/241975/)
 - Apr 8 [Harajuku.ts Meetup #3](https://babel-jp.connpass.com/event/242213/)
 - Mar 25 [UIT Meetup vol.15 『Relearn Modern Web Standard』](https://uit.connpass.com/event/242359/)
 - Mar 15 [マイクロサービス？モノリス？SaaSアーキテクチャのPros/Cons | SaaS.tech #1](https://saas-tech.connpass.com/event/239175/)
 - Mar 10 [Frontend Talk 〜デザインシステム構築のリアルな裏側〜【hey｜note｜ANDPAD】](https://andpad.connpass.com/event/238368/)
-- Mar 10 [【Online】LINE Technical Writing Meetup vol. 11](https://line.connpass.com/event/240461/)
 <!-- profile updater end: connpass -->
