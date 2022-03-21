@@ -22,8 +22,19 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-|  [![](https://raw.githubusercontent.com/TakaShinoda/TakaShinoda/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  |  [![](https://raw.githubusercontent.com/TakaShinoda/TakaShinoda/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  |
-| ---- | ---- |
+<div style="display: flex;">
+
+<div>
+
+[![](https://raw.githubusercontent.com/TakaShinoda/TakaShinoda/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+<div>
+
+[![](https://raw.githubusercontent.com/TakaShinoda/TakaShinoda/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+</div>
 
 ## ![zenn](https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://zenn.dev/&size=16) Zenn Articles
 
