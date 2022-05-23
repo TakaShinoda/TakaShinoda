@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ## ![connpass](https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://connpass.com/&size=16) connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 15 [【LT残1枠！】フロントエンドLT会 - vol.7　#frontendlt](https://rakus.connpass.com/event/245664/)
+- Jun 15 [【LT満員御礼！】フロントエンドLT会 - vol.7　#frontendlt](https://rakus.connpass.com/event/245664/)
 - Jun 3 [freeeアクセシビリティー研修パブリック・ビューイング - 技術職編](https://freee.connpass.com/event/246093/)
 - Apr 11 [VS Code Meetup #19 - フロントエンド開発Night](https://vscode.connpass.com/event/241975/)
 - Apr 8 [Harajuku.ts Meetup #3](https://babel-jp.connpass.com/event/242213/)
