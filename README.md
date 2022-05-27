@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <!-- profile updater begin: connpass -->
 - Jun 15 [【LT満員御礼！】フロントエンドLT会 - vol.7　#frontendlt](https://rakus.connpass.com/event/245664/)
-- Jun 3 [freeeアクセシビリティー研修パブリック・ビューイング - 技術職編](https://freee.connpass.com/event/246093/)
+- Jun 3 [freeeアクセシビリティー研修パブリック・ビューイング - Webで実践編](https://freee.connpass.com/event/246093/)
 - Apr 11 [VS Code Meetup #19 - フロントエンド開発Night](https://vscode.connpass.com/event/241975/)
 - Apr 8 [Harajuku.ts Meetup #3](https://babel-jp.connpass.com/event/242213/)
 - Mar 25 [UIT Meetup vol.15 『Relearn Modern Web Standard』](https://uit.connpass.com/event/242359/)
