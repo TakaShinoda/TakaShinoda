@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ## ![zenn](https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://zenn.dev/&size=16) Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Jun 4 [Google Analytics 4 を使って人気記事を取得しmicroCMSに連携する](https://zenn.dev/taka_shino/articles/450d773a99f904)
 - Feb 28 [Error Boundary をやってみたい](https://zenn.dev/taka_shino/articles/eccce2ee48e17f)
 - Jan 16 [Next.js と Tailwind CSS でライトモードとダークモードを切り替えるボタンを作成](https://zenn.dev/taka_shino/articles/a6c176da799c91)
 - Dec 18 [Supabaseで認証機能を作ってみる](https://zenn.dev/taka_shino/articles/bengo4-advent-calendar-18)
