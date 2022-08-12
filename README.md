@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 ## ![connpass](https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://connpass.com/&size=16) connpass Events
 
 <!-- profile updater begin: connpass -->
+- Aug 24 [Ameba流 100年愛されるためのWebフロントエンド開発](https://cyberagent.connpass.com/event/255155/)
 - Jul 28 [kaonavi Tech Talk #7 〜フロントエンドスペシャル〜](https://kaonavi.connpass.com/event/243481/)
 - Jul 27 [リーダブルなテストコードについて考えよう](https://veriserve-event.connpass.com/event/243280/)
 - Jun 15 [【LT満員御礼！】フロントエンドLT会 - vol.7　#frontendlt](https://rakus.connpass.com/event/245664/)
 - Jun 3 [freeeアクセシビリティー研修パブリック・ビューイング - Webで実践編](https://freee.connpass.com/event/246093/)
-- Apr 11 [VS Code Meetup #19 - フロントエンド開発Night](https://vscode.connpass.com/event/241975/)
 <!-- profile updater end: connpass -->
