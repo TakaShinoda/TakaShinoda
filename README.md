@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 
 <!-- profile updater begin: connpass -->
 - Oct 1 [POST Dev | ビジネスを変革するモダンフロントエンドの祭典](https://nijibox.connpass.com/event/256080/)
+- Sep 5 [Node学園 40時限目 オンライン Bun について](https://nodejs.connpass.com/event/258870/)
 - Aug 24 [大規模toCサービス開発だからできる、Webエンジニアが成長し続けられる技術・組織・キャリア戦略](https://cyberagent.connpass.com/event/255155/)
 - Jul 28 [kaonavi Tech Talk #7 〜フロントエンドスペシャル〜](https://kaonavi.connpass.com/event/243481/)
 - Jul 27 [リーダブルなテストコードについて考えよう](https://veriserve-event.connpass.com/event/243280/)
-- Jun 15 [【LT満員御礼！】フロントエンドLT会 - vol.7　#frontendlt](https://rakus.connpass.com/event/245664/)
 <!-- profile updater end: connpass -->
