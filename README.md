@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 ## ![connpass](https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://connpass.com/&size=16) connpass Events
 
 <!-- profile updater begin: connpass -->
+- Oct 20 [高まるウェブアクセシビリティの需要〜フロントエンド最前線〜](https://findy.connpass.com/event/262138/)
 - Oct 1 [POST Dev | ビジネスを変革するモダンフロントエンドの祭典](https://nijibox.connpass.com/event/256080/)
 - Sep 16 [電子署名保証レベル勉強会(9/16開催)](https://maturi-eswg-jnsa.connpass.com/event/258509/)
 - Sep 5 [Node学園 40時限目 オンライン Bun について](https://nodejs.connpass.com/event/258870/)
 - Aug 24 [大規模toCサービス開発だからできる、Webエンジニアが成長し続けられる技術・組織・キャリア戦略](https://cyberagent.connpass.com/event/255155/)
-- Jul 28 [kaonavi Tech Talk #7 〜フロントエンドスペシャル〜](https://kaonavi.connpass.com/event/243481/)
 <!-- profile updater end: connpass -->
