@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 ## ![connpass](https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://connpass.com/&size=16) connpass Events
 
 <!-- profile updater begin: connpass -->
+- Apr 18 [Front-End Deep Dive](https://anotherworks.connpass.com/event/278310/)
 - Mar 22 [2023年のフロントエンド高速化手法~Fastlyとメルカリに学ぶ、パフォーマンスチューニング最前線](https://findy.connpass.com/event/276615/)
 - Jan 20 [【大好評！配信視聴枠を用意】Harajuku.ts Meetup 〜 Recoilの事例集めました〜](https://babel-jp.connpass.com/event/263696/)
 - Nov 26 [jsconf.jp 2022](https://nodejs.connpass.com/event/265614/)
 - Oct 20 [高まるウェブアクセシビリティの需要〜フロントエンド最前線〜](https://findy.connpass.com/event/262138/)
-- Oct 1 [POST Dev | ビジネスを変革するモダンフロントエンドの祭典](https://nijibox.connpass.com/event/256080/)
 <!-- profile updater end: connpass -->
