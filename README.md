@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 
 <!-- profile updater begin: connpass -->
 - May 10 [Webフロントエンドのための実践「テスト」手法 CodeZine Night #1](https://codezine.connpass.com/event/279012/)
+- May 9 [エンジニアリングマネージャー と 目標設定](https://nttcom.connpass.com/event/282173/)
 - Apr 21 [Serverless Frontend Meetup #2 「Vercel」](https://serverless-frontend.connpass.com/event/279964/)
 - Apr 18 [Front-End Deep Dive](https://anotherworks.connpass.com/event/278310/)
 - Mar 22 [2023年のフロントエンド高速化手法~Fastlyとメルカリに学ぶ、パフォーマンスチューニング最前線](https://findy.connpass.com/event/276615/)
-- Jan 20 [【大好評！配信視聴枠を用意】Harajuku.ts Meetup 〜 Recoilの事例集めました〜](https://babel-jp.connpass.com/event/263696/)
 <!-- profile updater end: connpass -->
