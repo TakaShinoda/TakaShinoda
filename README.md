@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ## ![zenn](https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://zenn.dev/&size=16) Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Jun 4 [Nuxt3, Vuetify3, Zod で管理画面 UI を作成する](https://zenn.dev/taka_shino/articles/9583757f5692c4)
 - Dec 23 [React Email を使ってメールを配信する](https://zenn.dev/taka_shino/articles/14943483d10431)
 - Oct 22 [ちくちく言葉チェッカーを作ってみた](https://zenn.dev/taka_shino/articles/a28d0369377169)
 - Sep 20 [next/router をモックして、locale で表示切り替えしているコンポーネントをテストする](https://zenn.dev/taka_shino/articles/edfdf22cc6b496)
 - Aug 8 [Playwright で 別タブで Instagram に遷移するテストを書く](https://zenn.dev/taka_shino/articles/331c2a634ef876)
-- Jun 4 [Google Analytics 4 を使って人気記事を取得し microCMS に連携する](https://zenn.dev/taka_shino/articles/450d773a99f904)
 <!-- profile updater end: zenn -->
 
 
