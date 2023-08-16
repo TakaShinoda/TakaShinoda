@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 ## ![connpass](https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://connpass.com/&size=16) connpass Events
 
 <!-- profile updater begin: connpass -->
+- Sep 25 [TC39 x JSConf.jp meetup (September 25th)](https://nodejs.connpass.com/event/292367/)
+- Sep 12 [TypeScriptを活用した型安全なチーム開発](https://sansan.connpass.com/event/292695/)
 - Aug 2 [Quramy×Takepepeが語る、フロントエンドテストの最前線](https://findy.connpass.com/event/290730/)
 - Aug 1 [3rdparty.js #1 制約を超えろ！サードパーティJS開発の探求](https://3rdpartyjs.connpass.com/event/289558/)
 - Jul 27 [Figmaを知ることで変わるフロントエンドの開発生産性](https://findy.connpass.com/event/290057/)
-- Jun 29 [Encraft #4 React/Next.js 最前線](https://knowledgework.connpass.com/event/285601/)
-- May 17 [フロントエンドの技術的負債 みんなで学ぶ Lunch LT](https://findy.connpass.com/event/281811/)
 <!-- profile updater end: connpass -->
