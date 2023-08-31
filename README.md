@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 
 <!-- profile updater begin: connpass -->
 - Sep 25 [TC39 x JSConf.jp meetup (September 25th)](https://nodejs.connpass.com/event/292367/)
+- Sep 21 [フロントエンドの開発生産性〜Online Conference〜](https://findy.connpass.com/event/294482/)
 - Sep 12 [TypeScriptを活用した型安全なチーム開発](https://sansan.connpass.com/event/292695/)
 - Aug 2 [Quramy×Takepepeが語る、フロントエンドテストの最前線](https://findy.connpass.com/event/290730/)
 - Aug 1 [3rdparty.js #1 制約を超えろ！サードパーティJS開発の探求](https://3rdpartyjs.connpass.com/event/289558/)
-- Jul 27 [Figmaを知ることで変わるフロントエンドの開発生産性](https://findy.connpass.com/event/290057/)
 <!-- profile updater end: connpass -->
