@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 ## ![connpass](https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://connpass.com/&size=16) connpass Events
 
 <!-- profile updater begin: connpass -->
+- Mar 28 [Encraft #12 Frontend Quiz Night](https://knowledgework.connpass.com/event/311056/)
 - Mar 27 [フロントエンド技術選定 ~ゼロランタイムCSS in JSとTailwind CSS編~](https://findy.connpass.com/event/312625/)
 - Mar 24 [Object-Oriented Conference 2024（3/24本編）](https://ooc.connpass.com/event/305241/)
 - Feb 21 [RECRUIT TECH CONFERENCE 2024 -  技術で挑み、技術でつなぐ。](https://recruit-event.connpass.com/event/302250/)
 - Jan 24 [プロダクトの急成長を支えるフロントエンド改善の取り組み](https://sansan.connpass.com/event/305970/)
-- Dec 11 [UIT × Bonfire Front-end Meetup #1](https://uit.connpass.com/event/300284/)
 <!-- profile updater end: connpass -->
