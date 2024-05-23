@@ -29,18 +29,20 @@ Here are some ideas to get you started:
 ## ![zenn](https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://zenn.dev/&size=16) Zenn Articles
 
 <!-- profile updater begin: zenn -->
-- Feb 28 [Error Boundary をやってみたい](https://zenn.dev/taka_shino/articles/eccce2ee48e17f)
-- Jan 16 [Next.js と Tailwind CSS でライトモードとダークモードを切り替えるボタンを作成](https://zenn.dev/taka_shino/articles/a6c176da799c91)
-- Dec 18 [Supabaseで認証機能を作ってみる](https://zenn.dev/taka_shino/articles/bengo4-advent-calendar-18)
+- Jan 11 [package.json も lint する](https://zenn.dev/taka_shino/articles/b3d3a491008bed)
+- Oct 15 [satisfies を使って嬉しかったところ](https://zenn.dev/taka_shino/articles/7375dab18eece4)
+- Jun 4 [Nuxt3, Vuetify3, Zod で管理画面 UI を作成する](https://zenn.dev/taka_shino/articles/9583757f5692c4)
+- Dec 23 [React Email を使ってメールを配信する](https://zenn.dev/taka_shino/articles/14943483d10431)
+- Oct 22 [ちくちく言葉チェッカーを作ってみた](https://zenn.dev/taka_shino/articles/a28d0369377169)
 <!-- profile updater end: zenn -->
 
 
 ## ![connpass](https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://connpass.com/&size=16) connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 11 [VS Code Meetup #19 - フロントエンド開発Night](https://vscode.connpass.com/event/241975/)
-- Apr 8 [Harajuku.ts Meetup #3](https://babel-jp.connpass.com/event/242213/)
-- Mar 25 [UIT Meetup vol.15 『Relearn Modern Web Standard』](https://uit.connpass.com/event/242359/)
-- Mar 15 [マイクロサービス？モノリス？SaaSアーキテクチャのPros/Cons | SaaS.tech #1](https://saas-tech.connpass.com/event/239175/)
-- Mar 10 [Frontend Talk 〜デザインシステム構築のリアルな裏側〜【hey｜note｜ANDPAD】](https://andpad.connpass.com/event/238368/)
+- May 29 [うひょさんに聞く！React 19アップデートの勘所](https://findy.connpass.com/event/318090/)
+- Apr 30 [Node学園 42時限目 Next.js AppRouterについて](https://nodejs.connpass.com/event/315443/)
+- Mar 28 [Encraft #12 Frontend Quiz Night](https://knowledgework.connpass.com/event/311056/)
+- Mar 27 [フロントエンド技術選定 ~ゼロランタイムCSS in JSとTailwind CSS編~](https://findy.connpass.com/event/312625/)
+- Mar 24 [Object-Oriented Conference 2024（3/24本編）](https://ooc.connpass.com/event/305241/)
 <!-- profile updater end: connpass -->
