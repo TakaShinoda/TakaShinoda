@@ -13,8 +13,6 @@ jobs:
       - uses: kumackey/profile-updater@v1
         with:
           zenn_user_id: taka_shino
-          connpass_nickname: tttttt_621_s
-          # qiita_user_id: kumackey
       - name: Commit and push
         run: |
           git config --local user.name "Takahiro"
