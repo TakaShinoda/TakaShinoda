@@ -35,14 +35,3 @@ Here are some ideas to get you started:
 - Dec 23 [React Email を使ってメールを配信する](https://zenn.dev/taka_shino/articles/14943483d10431)
 - Oct 22 [ちくちく言葉チェッカーを作ってみた](https://zenn.dev/taka_shino/articles/a28d0369377169)
 <!-- profile updater end: zenn -->
-
-
-## ![connpass](https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://connpass.com/&size=16) connpass Events
-
-<!-- profile updater begin: connpass -->
-- May 29 [うひょさんに聞く！React 19アップデートの勘所](https://findy.connpass.com/event/318090/)
-- Apr 30 [Node学園 42時限目 Next.js AppRouterについて](https://nodejs.connpass.com/event/315443/)
-- Mar 28 [Encraft #12 Frontend Quiz Night](https://knowledgework.connpass.com/event/311056/)
-- Mar 27 [フロントエンド技術選定 ~ゼロランタイムCSS in JSとTailwind CSS編~](https://findy.connpass.com/event/312625/)
-- Mar 24 [Object-Oriented Conference 2024（3/24本編）](https://ooc.connpass.com/event/305241/)
-<!-- profile updater end: connpass -->
